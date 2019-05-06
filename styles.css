@@ -1,0 +1,17 @@
+.btn-def {
+    background-color: black;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn-after {
+    background-color: red;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+body {
+    background-color: black;
+}
