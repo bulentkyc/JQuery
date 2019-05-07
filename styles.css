@@ -13,5 +13,44 @@
 }
 
 body {
+    background-color: whitesmoke;
+}
+
+#div1 {
+    color: aqua;
+}
+
+.red-div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: none;
+}
+
+.gold-div {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    display: none;
+}
+
+.black-div {
+    width: 100px;
+    height: 100px;
     background-color: black;
+    color: white;
+    display: none;
+}
+
+#slider {
+    padding: 50px;
+    display: none;
+    background-color: aqua;
+}
+
+.orange-div {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    position: absolute;
 }
